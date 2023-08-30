@@ -1,5 +1,5 @@
 # ML System Design Doc - [RU]
-## Дизайн ML системы - \<Продукт\> \<MVP or Production System\> \<Номер\>
+## Дизайн ML системы - Робот-Фасилитатор "Коллективный Разум" ака Майндмайндер 1.0.0
 
 *Шаблон ML System Design Doc от телеграм-канала [Reliable ML](https://t.me/reliable_ml)*   
 
